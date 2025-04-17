@@ -5,7 +5,7 @@
 
 html {
   font-size: 18px;
-  font-family: 'Noto Sans', sans-serif;
+  font-family: "Noto Sans", sans-serif;
   font-weight: 400;
 }
 
@@ -57,6 +57,7 @@ html {
 
 .greeting-italic {
   font-style: italic;
+  text-align: center;
 }
 
 .greeting-emphasis {
@@ -90,8 +91,7 @@ html {
   display: block;
   margin: auto;
 }
-
-.engineering-building-description {
+p .engineering-building-description {
   max-width: 800px;
   margin: 20px auto;
   padding: 0 10px;
